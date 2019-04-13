@@ -15,13 +15,5 @@ Added missing line
 ### More lines
 
 Lines are never enough
-Lines lines lines
-
 Ruby ruby ruby
-
 Latin
-
-
-More updates to this file
-
-Lines lines lines, like it like it
