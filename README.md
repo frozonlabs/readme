@@ -2,6 +2,7 @@
 
 Initial repository read me
 Removed the lines
+We don't need all those lines
 
 #### Godric
 
