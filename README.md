@@ -8,6 +8,7 @@ We don't need all those lines
 
 Added missing line
 One small line
+One liner
 
 ### More lines
 
